@@ -81,6 +81,7 @@ img{
   font-family: Cormorant Garamond;
   color: #c2c5ab;
   margin-bottom: 40px;
+  font-weight: normal;
   animation: fadeUp 1.5s ease;
 }
 
