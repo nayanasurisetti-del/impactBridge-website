@@ -3,7 +3,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   const opportunities = [
-    
+    /*
     {
       id: 1,
       title: "Card Making Event",
@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
       time: "10:00 AM–1:00 PM",
       link: "opportunity.html"
     }
-
+    */
   ];
 
   const track = document.querySelector(".track");
