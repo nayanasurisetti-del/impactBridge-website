@@ -3,9 +3,10 @@
 
 document.addEventListener('DOMContentLoaded', () => {
   const opportunities = [
+      /*
     {
       id: 1,
-      title: "Card Making for Healthcare Workers",
+      title: "Card Making Event",
       organization: "Sending Smiles",
       date: "November 20th, 2026",
       time: "Drop off at NCHS Library",
